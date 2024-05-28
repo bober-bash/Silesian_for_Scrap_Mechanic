@@ -133,7 +133,7 @@ HANDBOOK_CONTROLLER_PAGE2_SUBTITLE1 • Kliknij i przytrzymaj lewy knefel myszy.
 HANDBOOK_CONTROLLER_PAGE2_SUBTITLE2 • Sztartnij dźwiyrze włącznikiem połōnczōnym z programatorem.
 HANDBOOK_CONTROLLER_PAGE2_SUBTITLE3 Programator to niezastąpiony elymynt interaktywny, kery dŏwŏ ci niyskōńczōne możliwości.
 HANDBOOK_CONTROLLER_PAGE2_ADJUST_SPEED Gezecōw gibkość programatora
-HANDBOOK_CONTROLLER_PAGE2_ADJUST_SZTART_ANGLE Gezecōw pozycyjõ sztartowõ
+HANDBOOK_CONTROLLER_PAGE2_ADJUST_START_ANGLE Gezecōw pozycyjõ sztartowõ
 HANDBOOK_CONTROLLER_PAGE2_FINE_TUNE_ANGLE Przytrzymaj, coby przipasować kōnt
 HANDBOOK_CONTROLLER_PAGE2_TOGGLE_REPEAT Włōnczŏ i zastawiŏ zapyntlynie
 HANDBOOK_CONTROLLER_PAGE2_TOGGLE_BACK_AND_FORTH Szaltrowanie ruchu w przodek abo w zadek
@@ -271,7 +271,7 @@ CONTROLLER_LIGHT_TITLE ŚWIATŁO
 
 CONTROLLER_LOGIC_DESCRIPTION_AND Kanōny, jeźli wszyjske podłōnczōne włączniki sōm aktywne
 CONTROLLER_LOGIC_DESCRIPTION_NAND Kanōny, jeźli keryś z podłōnczōnych włączników niy ma aktywny
-CONTROLLER_LOGIC_DESCRIPTION_DUCZ Kanōny, jeźli wszyjske podłōnczōne włączniki niy sōm aktywne
+CONTROLLER_LOGIC_DESCRIPTION_NOR Kanōny, jeźli wszyjske podłōnczōne włączniki niy sōm aktywne
 CONTROLLER_LOGIC_DESCRIPTION_OR Kanōny, jeźli keryś z podłōnczōnych włączników je aktywny
 CONTROLLER_LOGIC_DESCRIPTION_XNOR Kanōny, jeźli tuplowanŏ liczba podłōnczōnych włączników je aktywnŏ
 CONTROLLER_LOGIC_DESCRIPTION_XOR Kanōny, jeźli jedyn z podłōnczōnych włączników je aktywny
@@ -342,7 +342,7 @@ DAMAGE_BREATH Tōniyńcie
 DAMAGE_HUNGER Głodowanie
 DAMAGE_THIRST Odwodnienie
 
-DATE DATŌM
+DATE DATA
 
 DELETE SKASUJ
 
@@ -581,8 +581,8 @@ MENU_OPTIONS_CONTROLS_STRAFE_LEFT Ruch w lewo
 MENU_OPTIONS_CONTROLS_STRAFE_RIGHT Ruch w prawo
 MENU_OPTIONS_CONTROLS_TINKER Ulepsz
 MENU_OPTIONS_CONTROLS_USE Użyj
-MENU_OPTIONS_CONTROLS_ZŌŌM_IN Przibliż
-MENU_OPTIONS_CONTROLS_ZŌŌM_OUT Ôddal
+MENU_OPTIONS_CONTROLS_ZOOM_IN Przibliż
+MENU_OPTIONS_CONTROLS_ZOOM_OUT Ôddal
 
 MENU_OPTIONS_DISPLAY EKRAN
 MENU_OPTIONS_DISPLAY_DISPLAY_MODE Tryb wyświytlaniŏ
@@ -692,7 +692,7 @@ STEAM_WORKSHOP_FAILED_DOWNLOAD Niy podarziło sie pobrać przedmiotu z werksztel
 STEAM_WORKSHOP_FAILED_FIND_FOLDER Niy idzie znojś folderu do
 STEAM_WORKSHOP_FAILED_REASON Prziczyna
 STEAM_WORKSHOP_FAILED_REASON_ACCESS_DENIED Abszlag przistympu
-STEAM_WORKSHOP_FAILED_REASON_DATE_CORRUPTION Popszniynie danych
+STEAM_WORKSHOP_FAILED_REASON_DATA_CORRUPTION Popszniynie danych
 STEAM_WORKSHOP_FAILED_REASON_DISK_FULL Dysk je połny
 STEAM_WORKSHOP_FAILED_REASON_ERROR_CODE Kod błyndu
 STEAM_WORKSHOP_FAILED_UPLOAD Wysłanie sie niy powiodło
