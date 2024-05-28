@@ -1,0 +1,758 @@
+﻿LANGUAGE_CODE PL
+
+HANDBOOK_TOOLTIP_HOW_TO_PLAY PRAWIDŁA SZPILU
+HANDBOOK_TOOLTIP_HOW_TO_BUILD_A_VEHICLE JAK ZBUDOWAĆ WOZIDŁO? (poradnik dlŏ pieronów)
+HANDBOOK_TOOLTIP_BEARING ŁOŻYSKO
+HANDBOOK_TOOLTIP_LIFT AUFCUG
+HANDBOOK_TOOLTIP_CONNECT_TOOL SWORA
+HANDBOOK_TOOLTIP_DRIVERS_SEAT ZESEL KEROWCY
+HANDBOOK_TOOLTIP_GAS_ENGINE MOTŌR SPALINOWY
+HANDBOOK_TOOLTIP_THRUSTER MOTŌR RAKETOWY
+HANDBOOK_TOOLTIP_TRIGGERS WŁĄCZNIKI
+HANDBOOK_TOOLTIP_CONTROLLER PROGRAMATOR
+HANDBOOK_TOOLTIP_LOGIC_GATE WROTA LOGICZNŎ
+HANDBOOK_TOOLTIP_FREQUENTLY_ASKED_QUESTIONS CZYNSTO ZADŎWANE PYTANIŎ
+
+HANDBOOK_HOLD_AND_DRAG Przytrzymaj i przeciōngnij
+HANDBOOK_PRESS Wciś
+HANDBOOK_RELEASE Puść
+HANDBOOK_HOLD Trzim
+HANDBOOK_ARROW_KEYS Knefle fajlikōw
+
+HANDBOOK_HOW_TO_PLAY_TITLE PRAWIDŁA SZPILU
+
+HANDBOOK_HOW_TO_PLAY_PAGE1_SUBTITLE1 • Sterowanie
+HANDBOOK_HOW_TO_PLAY_PAGE1_SUBTITLE2 • Używanie z ajnrichtōngu i paska gibkigo przistympu
+HANDBOOK_HOW_TO_PLAY_PAGE1_MOVE Ruch
+HANDBOOK_HOW_TO_PLAY_PAGE1_LOOK Rozglōndanie sie
+HANDBOOK_HOW_TO_PLAY_PAGE1_CAMERA Kamera
+HANDBOOK_HOW_TO_PLAY_PAGE1_IN_OUT Przibliżynie / Ôbdale
+HANDBOOK_HOW_TO_PLAY_PAGE1_JUMP Skok
+HANDBOOK_HOW_TO_PLAY_PAGE1_SPRINT Lŏtanie
+HANDBOOK_HOW_TO_PLAY_PAGE1_CROUCH Kucanie
+HANDBOOK_HOW_TO_PLAY_PAGE1_INVENTORY Ajnrichtōng
+HANDBOOK_HOW_TO_PLAY_PAGE1_HOTBAR Pasek gibkigo przistympu
+
+HANDBOOK_HOW_TO_PLAY_PAGE2_SUBTITLE1 • Jak rozmieszczać, ôbrŏcać i wychrōniać elymynta
+HANDBOOK_HOW_TO_PLAY_PAGE2_SUBTITLE2 • Przipasuj srogość materyji i ôbsztaluj kerōnek skalowaniŏ
+HANDBOOK_HOW_TO_PLAY_PAGE2_ADJUST_POSITION Przipasuj pozycyjõ
+HANDBOOK_HOW_TO_PLAY_PAGE2_OBJECT_PLACE Wraź elymynt
+HANDBOOK_HOW_TO_PLAY_PAGE2_OBJECT_REMOVE Wychrōń elymynt
+HANDBOOK_HOW_TO_PLAY_PAGE2_OBJECT_ROTATE Ôbrōć elymynt
+HANDBOOK_HOW_TO_PLAY_PAGE2_ROTATE_DIRECTION Kerōnek ôbrotu
+
+HANDBOOK_HOW_TO_PLAY_PAGE3_SUBTITLE • Zapoznej sie z materyjami i tajlami przistympnymi w Scrap Mechanic.
+HANDBOOK_HOW_TO_PLAY_PAGE3_BLOCKS Bloki
+HANDBOOK_HOW_TO_PLAY_PAGE3_BLOCKS_TEXT Tradycyjnŏ materyjŏ budowlany. Bloki mogōm być wykōnane z kamynia, holcu, plastika abo metalu. Miara blokōw idzie zmiyniać bez przeciōnganie i zwŏlnianie knefla myszy. Dziynki nim wartko i wygodliwie zbudujesz sroge kōnstrukcyje. Coby wychrōnić blok, przinŏleży go przytrzymać i przeciōngnōńć prawym kneflym myszy. Na ekranie ajnrichtōngu bloki ôznaczōno było farbōm modrym.
+HANDBOOK_HOW_TO_PLAY_PAGE3_INTERACTIVE_PARTS Czynści interaktywne
+HANDBOOK_HOW_TO_PLAY_PAGE3_INTERACTIVE_PARTS_TEXT Zŏdaniym czynści interaktywnych je wprŏwianie kōnstrukcyje w ruch. Dziynki nim stworzōne bez grŏcza wozidła bydōm mogły sie kryńcić, jeździć, lŏtać itd. Do czynści interaktywnych zaliczŏ sie moc elymyntōw, ôd motora spalinowego po w połni ôbrotne radyjŏ. Na ekranie ajnrichtōngu czynści interaktywne ôznaczōno było farbōm apluzinowym.
+HANDBOOK_HOW_TO_PLAY_PAGE3_PARTS Czynści
+HANDBOOK_HOW_TO_PLAY_PAGE3_PARTS_TEXT Elymynta kōnstrukcyjne różniące sie kształtym i wyglōndym, dziynki nim stworzisz wyjōntkowe kōnstrukcyje. W tym zbiorze znojdziesz wszyjsko, ôd ciynżkich ôcylowych rōm po guminowõ kaczuszkę. Na ekranie ajnrichtōngu elymynta kōnstrukcyjne ôznaczōno było farbōm zielōnym.
+HANDBOOK_HOW_TO_PLAY_PAGE3_CONSUMABLES Przedmioty użytkowe
+HANDBOOK_HOW_TO_PLAY_PAGE3_CONSUMABLES_TEXT Przistympne hned…
+
+HANDBOOK_HOW_TO_PLAY_PAGE4_SUBTITLE • Informacyje na tymat nŏczyń we szpilowi Scrap Mechanic
+HANDBOOK_HOW_TO_PLAY_PAGE4_CONNECT_TOOL Swora
+HANDBOOK_HOW_TO_PLAY_PAGE4_CONNECT_TOOL_TEXT Nojlepszy kamrat kożdego mechanika! Użyj go, by połōnczyć z sobōm ôsobne czynści interaktywne. Bez tyn przikłŏd motōr spalinowy z łożyskym eli motōr raketowy z zeslym kerowcy. Moc elymyntōw idzie z sobōm połōnczyć. Zrobisz to prawie tym nŏczyniym.
+HANDBOOK_HOW_TO_PLAY_PAGE4_LIFT Aufcug
+HANDBOOK_HOW_TO_PLAY_PAGE4_LIFT_TEXT Kōnstrukcyje zbudowane na aufcugu niy sōm przimocowane do zŏla i mogōm być dowolnie przemieszczane. Ekstra budowanie na aufcugu unieruchamia łożyska, co ulekszŏ robotã. Kożdŏ z niezakotwiczonych kōnstrukcyje może być wrażōnŏ na aufcugu w leda jakim mōmyncie szpilu.
+HANDBOOK_HOW_TO_PLAY_PAGE4_SLEDGEHAMMER Pucha
+HANDBOOK_HOW_TO_PLAY_PAGE4_SLEDGEHAMMER_TEXT Puchōm idzie dowolnie cŏfać niezakotwiczone elymynta – styknie w niy trzasnōńć. Idzie tyż zaszperować zbliżajōncy sie szlag, bez klikanie prawy knefel myszy.
+HANDBOOK_HOW_TO_PLAY_PAGE4_PAINT_TOOL Malowanie
+HANDBOOK_HOW_TO_PLAY_PAGE4_PAINT_TOOL_TEXT Użyj farby, coby nadać swojim kōnstrukcyjōm wyjōntkowy wyglōnd i tworzić włŏsne dzieła kōnsztu. Coby malować, kliknij lewym kneflym myszy. Coby wychrōnić farbã – prawym. Wciś „Q”, coby ôtworzić paletã farb. Coby pōmalować srogszõ powiyrchniã, przytrzymaj i przeciōngnij lewy knefel myszy.
+HANDBOOK_HOW_TO_PLAY_PAGE4_WELD_TOOL Spawarka
+HANDBOOK_HOW_TO_PLAY_PAGE4_WELD_TOOL_TEXT Zespawaj swoje kōnstrukcyje! Ôbier spawarkę, kliknij lewym kneflym myszy leda jakõ zwōlnõ kōnstrukcyjõ, a potym zaś kliknij tym samym kneflym powiyrchniã inkszyj kōnstrukcyje, by zespawać jy z sobōm. Możesz tyż zespawać z sobōm czynści bydōnce na aufcugu. Przytrzymaj lewy knefel myszy na piyrszyj czynści i przeciōngnij w kerōnku czynści, co do prpers chcesz jã przyspawać.
+
+HANDBOOK_HOW_TO_BUILD_A_VEHICLE_TITLE JAK ZBUDOWAĆ WOZIDŁO?
+
+HANDBOOK_HOW_TO_BUILD_A_VEHICLE_PAGE1_SUBTITLE1 • Gezecōw aufcug na ziymie i bez posugowanie sie blokami, zacznij na nim budować podstawã.
+HANDBOOK_HOW_TO_BUILD_A_VEHICLE_PAGE1_SUBTITLE2 • Zamontuj zdatne elymynta: łożyska, koła, zesel kerowcy i motōr spalinowy.
+HANDBOOK_HOW_TO_BUILD_A_VEHICLE_PAGE1_SUBTITLE3 • Używajōnc łącznika, połōncz z sobōm ôsobne elymynta.
+
+HANDBOOK_HOW_TO_BUILD_A_VEHICLE_PAGE2_SUBTITLE1 • Wejzdrzij sie, iże wszyjske połōnczyniŏ wyglōndajōm jak w instrukcyje.
+HANDBOOK_HOW_TO_BUILD_A_VEHICLE_PAGE2_SUBTITLE2 • Gezecōw ôdpedni kerōnek ôbrŏcaniŏ sie łożysk i sztartnij motōr.
+HANDBOOK_HOW_TO_BUILD_A_VEHICLE_PAGE2_SUBTITLE3 Bez powtŏrzanie te czynności, idzie zbudować leda jakij zorty wozidła. Zachyncōmy do eksperymyntōw!
+
+HANDBOOK_BEARING_TITLE ŁOŻYSKO
+
+HANDBOOK_BEARING_PAGE1_SUBTITLE1 • Elymynta przytwierdzone do łożyska zacznōm sie ôbrŏcać.
+HANDBOOK_BEARING_PAGE1_SUBTITLE2 • Łożysko idzie wprawić w ruch na dwa spōsoby: za pōmocōm motora abo bez przistōmpiynie dō niego programatora.
+HANDBOOK_BEARING_PAGE1_SUBTITLE3 • Łożyskami przistōmpiōnymi do fotela kerowcy idzie kerować tastaturōm.
+
+HANDBOOK_LIFT_TITLE AUFCUG
+
+HANDBOOK_LIFT_PAGE1_SUBTITLE1 • Niy dozwolŏ przytwierdzenie kōnstrukcyje do zŏla.
+HANDBOOK_LIFT_PAGE1_SUBTITLE2 • Szperuje ruch ôbyrtny łożysk, co ulekszŏ budowanie.
+HANDBOOK_LIFT_PAGE1_SUBTITLE3 • W leda jakim mōmyncie idzie wrazić na nim kożdõ swobodnie stojōncõ stawiynie abo jã z niego symnōńć.
+HANDBOOK_LIFT_PAGE1_ADJUST_HEIGHT Przipasowowanie wysokości
+HANDBOOK_LIFT_PAGE1_PICKING_UP_OBJECTS Dźwiganie swobodnie stojōncych elymyntōw
+HANDBOOK_LIFT_PAGE1_PICKING_UP_OBJECTS_CLICK_ON_OBJECT Kliknij elymynt
+HANDBOOK_LIFT_PAGE1_PICKING_UP_OBJECTS_CLICK_ON_GROUND Kliknij plac
+
+HANDBOOK_CONNECT_TOOL_TITLE SWORA
+
+HANDBOOK_CONNECT_TOOL_PAGE1_SUBTITLE1 • Coby połōnczyć z sobōm elymynta interaktywne, przeciōngnij myszkã pōmiyndzy pōnktami, co chcesz połōnczyć.
+HANDBOOK_CONNECT_TOOL_PAGE1_SUBTITLE2 • Coby zmiynić kerōnek ruchu ôbyrtnego łożyska połōnczōnego z motorym, przinŏleży kliknōńć prawym kneflym myszy.
+
+HANDBOOK_DRIVERS_SEAT_TITLE ZESEL KEROWCY
+
+HANDBOOK_DRIVERS_SEAT_PAGE1_SUBTITLE1 • Przimocowanie fotela kerowcy do łożyska za pōmocōm łącznika dozwolŏ bezpostrzedniõ kōntrolã nad ruchym łożyska
+HANDBOOK_DRIVERS_SEAT_PAGE1_SUBTITLE2 w czasie siedzyniŏ. Podobnie je w przipŏdku motorōw.
+HANDBOOK_DRIVERS_SEAT_PAGE1_SUBTITLE3 • Kneflami i szaltrami połōnczōnymi z zeslym idzie kerować bezpostrzednio z fotela.
+
+HANDBOOK_ENGINE_TITLE MOTŌR SPALINOWY
+
+HANDBOOK_ENGINE_PAGE1_SUBTITLE1 • Może wprawić w ruch piyńć łożysk.
+HANDBOOK_ENGINE_PAGE1_SUBTITLE2 • Wciś „E”, coby dostać przistymp do zapłonu i kōntrole wartkości.
+HANDBOOK_ENGINE_PAGE1_SUBTITLE3 • Może być połōnczōny z zeslym kerowcy w nastympujōncy spōsōb.
+
+HANDBOOK_THRUSTER_TITLE MOTŌR RAKETOWY
+
+HANDBOOK_THRUSTER_PAGE1_SUBTITLE1 Dziynki motorōm raketowym twoje kōnstrukcyje wzbiją sie w luft.
+HANDBOOK_THRUSTER_PAGE1_SUBTITLE2 • Coby go sztartnōńć, podłōncz dowolnie ôbrany włącznik do fotela kerowcy.
+HANDBOOK_THRUSTER_PAGE1_SUBTITLE3 • Wejzdrzij sie, iże ôbranŏ kōnstrukcyjŏ niy ma przytwierdzona do ziymie, podwiela sprōbujesz niōm polecieć.
+
+HANDBOOK_TRIGGERS_TITLE WŁĄCZNIKI
+
+HANDBOOK_TRIGGERS_PAGE1_SUBTITLE1 • Sużōm do sztartowaniŏ czynści interaktywnych, takich jak motory i programatory.
+HANDBOOK_TRIGGERS_PAGE1_SUBTITLE2 • Kożdy z trzech zort włączników kanōny w inkszy spōsōb.
+HANDBOOK_TRIGGERS_PAGE1_SWITCH Szalter
+HANDBOOK_TRIGGERS_PAGE1_SWITCH_TEXT Włōnczŏ i zastawiŏ podłōnczōne elymynta.
+HANDBOOK_TRIGGERS_PAGE1_BUTTON Knefel
+HANDBOOK_TRIGGERS_PAGE1_BUTTON_TEXT Podłōnczōne elymynta ôstŏwajōm aktywne, dopoki trzimiesz knefel.
+HANDBOOK_TRIGGERS_PAGE1_SENSOR Czujnik
+HANDBOOK_TRIGGERS_PAGE1_SENSOR_TEXT Sztartuje podłōnczōne kōnstrukcyje, kedy we swojim zasiyngu wykryje jakiś ruch.
+
+HANDBOOK_CONTROLLER_TITLE PROGRAMATOR
+
+HANDBOOK_CONTROLLER_PAGE1_SUBTITLE1 • Sprawiŏ, iże twoje kōnstrukcyje zmiyniajōm sie w ruchōme masziny.
+HANDBOOK_CONTROLLER_PAGE1_SUBTITLE2 • Przizwŏlŏ zaprogramować zakres i sekwyncyjõ ruchu łożysk. Coby go sztartnōńć, przinŏleży użyć włącznika.
+HANDBOOK_CONTROLLER_PAGE1_SUBTITLE3 Poznej prawidła kōnstrukcyje z programatorem na przikładzie budowy autōmatycznych dźwiyrze.
+
+HANDBOOK_CONTROLLER_PAGE2_SUBTITLE1 • Kliknij i przytrzymaj lewy knefel myszy. Gezecōw zakres ruchu, bez cŏfanie myszkã w lewo abo w prawo, tak jak na cychōnku.
+HANDBOOK_CONTROLLER_PAGE2_SUBTITLE2 • Sztartnij dźwiyrze włącznikiem połōnczōnym z programatorem.
+HANDBOOK_CONTROLLER_PAGE2_SUBTITLE3 Programator to niezastąpiony elymynt interaktywny, kery dŏwŏ ci niyskōńczōne możliwości.
+HANDBOOK_CONTROLLER_PAGE2_ADJUST_SPEED Gezecōw gibkość programatora
+HANDBOOK_CONTROLLER_PAGE2_ADJUST_SZTART_ANGLE Gezecōw pozycyjõ sztartowõ
+HANDBOOK_CONTROLLER_PAGE2_FINE_TUNE_ANGLE Przytrzymaj, coby przipasować kōnt
+HANDBOOK_CONTROLLER_PAGE2_TOGGLE_REPEAT Włōnczŏ i zastawiŏ zapyntlynie
+HANDBOOK_CONTROLLER_PAGE2_TOGGLE_BACK_AND_FORTH Szaltrowanie ruchu w przodek abo w zadek
+
+HANDBOOK_LOGIC_GATE_TITLE WROTA LOGICZNŎ
+
+HANDBOOK_LOGIC_GATE_PAGE1_SUBTITLE1 • Dozwolŏ tworzynie rozwiōnzań ôpartych na ôperacyjach logicznych.
+HANDBOOK_LOGIC_GATE_PAGE1_SUBTITLE2 • Ôperacyje logiczne wykōnuje sie za pōmocōm ekstra blokōw logicznych.
+HANDBOOK_LOGIC_GATE_PAGE1_SUBTITLE3 • Postympuj zgodnie z instrukcyjōm, coby sie przewiedzieć, jak zaprogramować ôtwiyranie dźwiyrze dwōma ôsobnymi włącznikami.
+
+HANDBOOK_FAQ_TITLE CZYNSTO ZADŎWANE PYTANIŎ
+
+HANDBOOK_FAQ_PAGE1_SUBTITLE1 • Mŏsz jakeś zagwozdki abo pytaniŏ?
+HANDBOOK_FAQ_PAGE1_SUBTITLE2 • Sam idzie znojś na niy ôdpowiedzi.
+HANDBOOK_FAQ_PAGE1_CREATION_FELL_OVER Ô niy! Moja kōnstrukcyjŏ sie ôbalyła. Jak jã dźwignōńć?
+HANDBOOK_FAQ_PAGE1_CREATION_FELL_OVER_ANSWER Ôbier aufcug i kliknij kōnstrukcyjõ lewym kneflym myszy (LPM). Potym ôbier leda jake prōzne plac i zaś kliknij lewy knefel myszy (LPM), by postawić kōnstrukcyjõ. Ukŏże sie ôna na zŏlowi i bydzie ustawiōnŏ na aufcugu.
+HANDBOOK_FAQ_PAGE1_FINDING_THE_INVENTORY Brakuje mi elymyntōw. Jak ôtworzić ekran ajnrichtōngu?
+HANDBOOK_FAQ_PAGE1_FINDING_THE_INVENTORY_ANSWER You open the inventory by pressing the "I" key. When you find a part you want to use, drag it from the inventory in to your hotbar below.
+HANDBOOK_FAQ_PAGE1_ROTATE_PARTS Jak ôbrŏcać czynści?
+HANDBOOK_FAQ_PAGE1_ROTATE_PARTS_ANSWER You rotate parts by pressing the "Q" key or "Shift + Q"
+HANDBOOK_FAQ_PAGE1_PARTS_PLACE_OR_REMOVE Jak rozmieszczać i wychrōniać elymynta?
+HANDBOOK_FAQ_PAGE1_PARTS_PLACE_ANSWER Coby wrazić elymynt na zŏlowi, ôbier go z paska gibkigo przistympu i wciś lewy knefel myszy (LPM).
+HANDBOOK_FAQ_PAGE1_PARTS_REMOVE_ANSWER Coby zaś dźwignōńć elymynt, nakieruj na niego mysz i wciś prawy knefel myszy (PPM).
+HANDBOOK_FAQ_PAGE1_REMOVE_CONNECTIONS Jak wychrōnić połōnczyniŏ za pōmocōm łącznika?
+HANDBOOK_FAQ_PAGE1_REMOVE_CONNECTIONS_ANSWER Chyć jedyn z pōnktōw połōnczyniŏ i przeciōngnij w kerōnku inkszego pōnktu.
+HANDBOOK_FAQ_PAGE1_CAMERA_ANGLE Jak zmiynić ustawiynie kamery?
+HANDBOOK_FAQ_PAGE1_CAMERA_ANGLE_ANSWER Przytrzymaj Alt i rolkōm przewijaniŏ myszy przibliż abo ôddal ôbrŏz.
+
+ALERT_CONTROL_OVERRIDE Kerowane za pōmocōm inkszego elymyntu interaktywnego
+ALERT_CONTROLLER_CONNECTION_ERROR Błōnd połōnczyniŏ programatora
+ALERT_DRIVERS_SEAT_OCCUPIED Tyn zesel je zajynty
+ALERT_DRIVERS_SEAT_ON_LIFT Pamiyntej, coby wychrōnić aufcug, podwiela użyjesz fotela kerowcy.
+ALERT_EMPTY_RIGID_BODY Prōznŏ klōmpa sztajfnŏ
+ALERT_FAILED_TO_BUILD_SHAPE Niy podarziło sie stworzić kształtu
+ALERT_FAILED_TO_PARSE_JSON Niy podarziło sie przeanalizować formatu JSON
+ALERT_FARMING_DETECTED WYKRYTO BYŁO SAMOWOLNĄ UPRAWÃ!
+ALERT_HUNGER Głōd
+ALERT_INSUFFICIENT_MATERIALS Niywystykajōncŏ liczba czynści
+ALERT_INVALID_JOINT_POSITIONS Niynŏleżne wrażynie przegubów
+ALERT_INVALID_JSON Niynŏleżny format JSON
+ALERT_JOINT_CONNECTION_ERROR Błōnd połōnczyniŏ przegubu
+ALERT_MAX_CONNECTIONS Ôsiōngniynto było maksymalnõ liczbã połōnczyń
+ALERT_MAX_CONNECTIONS_BEARINGS Ôsiōngniynto było maksymalnõ liczbã połōnczyń łożysk
+ALERT_NO_CONNECTIONS Brak połōnczyń
+ALERT_NON_EXISTING_SHAPE Nieistniejący kształt
+ALERT_NOT_THE_CREATOR_OF_BLUEPRINT NIY JE ŻEŚ TWŌRCŌM TYJ MASZINY
+ALERT_STONE_TOO_BIG Tyn kamyń je za wiela wielki na pucha
+ALERT_THIRST Pragniynie
+ALERT_TREE_TOO_BIG Tyn strōm je za wiela wielke na pucha
+ALERT_UNABLE_TO_COLLECT_ALL Niy podarziło sie sebrać wszyjskich czynści.
+
+ALL_CAPS WSZYJSKE
+BACK CŎFNIJ
+BROWSE PRZEGLŌNDEJ
+BUILD ZBUDUJ
+
+CHALLENGE_BUILDER EDYTŌR WYZWAŃ
+CHALLENGE_BUILDER_2 EDYTŌR WYZWAŃ
+CHALLENGE_BUILDER_ADD PRZIDEJ DO PAKETU WYZWAŃ
+CHALLENGE_BUILDER_CHALLENGE_NAME Miano wyzwaniŏ
+CHALLENGE_BUILDER_CHALLENGE_PACK_NAME Miano paketu wyzwań
+CHALLENGE_BUILDER_CHALLENGE_PACK_NAME_2 MIANO PAKETU WYZWAŃ
+CHALLENGE_BUILDER_CHALLENGE_PACKS PAKETY WYZWAŃ
+CHALLENGE_BUILDER_CHAT_MESSAGE Witōmy w Edytorze Wyzwań Scrap Mechanic! Użyj aufcuga, by zapoznać sie z roztōmajtymi praktycznymi prefabrykatami. Możesz tyż użyć kōmynd czatu, coby ôbrać, kere nŏczyniŏ bydōm przistympne na zaczōntku wyzwaniŏ. Wpisz ’/help' w ôknie czatu, coby zobŏczyć połny wykŏz przistympnych kōmynd.
+CHALLENGE_BUILDER_HAVE_TO_BEAT_LINE_1 Musisz zaliczyć wyzwanie,
+CHALLENGE_BUILDER_HAVE_TO_BEAT_LINE_2 podwiela jy udostympnisz.
+CHALLENGE_BUILDER_NEW_CHALLENGE NOWE WYZWANIE
+CHALLENGE_BUILDER_NEW_CHALLENGE_PACK NOWY PAKET WYZWAŃ
+CHALLENGE_BUILDER_NO_PACKS_LINE_1 Niy mŏsz jeszcze żŏdnych paketōw wyzwań.
+CHALLENGE_BUILDER_NO_PACKS_LINE_2 Coby stworzić nowy paket, wciś
+CHALLENGE_BUILDER_SAVE_BEFORE_EXIT ZAPISAĆ PRZED WYJŚCIYM?
+CHALLENGE_BUILDER_SAVE_REMINDER Pamiyntej, coby zapisować co jakiś czas swoje wyzwanie
+
+CHALLENGE_FINISH ZAKŌŃCZ
+CHALLENGE_MENU_BUILDER_DESCRIPTION_LINE_1 Dej upust fantazyje.
+CHALLENGE_MENU_BUILDER_DESCRIPTION_LINE_2 Buduj ciynżke wyzwaniŏ i
+CHALLENGE_MENU_BUILDER_DESCRIPTION_LINE_3 poddej prōbie swojich znajōmych.
+CHALLENGE_MENU_BUILDER_TITLE_LINE_2 TWOJE WŁŎSNE
+CHALLENGE_MENU_BUILDER_TITLE_LINE_3 WYZWANIŎ
+CHALLENGE_MENU_SELECT_CHALLENGE ÔBIER WYZWANIE
+CHALLENGE_MENU_TITLE WYZWANIE
+CHALLENGE_NEW_RECORD NOWY REKORD
+CHALLENGE_NEXT DALIJ
+CHALLENGE_PACK_MENU_TITLE PAKET WYZWAŃ
+CHALLENGE_RESET RESETUJ
+CHALLENGE_RESTART ZACZNIJ ÔD NOWŎ
+CHALLENGE_WIN ZWYCIYNSTWO!
+
+CHARACTER_CUSTOMIZATION_CATEGORY_BACKPACK Rukzak
+CHARACTER_CUSTOMIZATION_CATEGORY_FACE Twŏrz
+CHARACTER_CUSTOMIZATION_CATEGORY_GLOVES Handszuły
+CHARACTER_CUSTOMIZATION_CATEGORY_HAIR Wosy
+CHARACTER_CUSTOMIZATION_CATEGORY_HAIR_FACIAL Zarost
+CHARACTER_CUSTOMIZATION_CATEGORY_HATS Nakrycie gowy
+CHARACTER_CUSTOMIZATION_CATEGORY_LEGS Nogi
+CHARACTER_CUSTOMIZATION_CATEGORY_SHOES Strzewiki
+CHARACTER_CUSTOMIZATION_CATEGORY_TORSO Tōłōw
+CHARACTER_CUSTOMIZATION_TITLE POSTAĆ
+
+CHAT_PLAYER_DISCONNECTED ôstoł/-a ôdłōnczōny/-a
+CHAT_PLAYER_JOINED przistōmpiōł/-a do szpilu
+CHAT_PLAYER_KICKED ôstoł/-a wyciepniynty/-a
+CHAT_PLAYER_LEFT ôpuściōł/-a szpil
+CHAT_PLAYER_RECONNECTED zaś sie połōnczōł/-a
+
+CHEST_TITLE_CHEST KASTLA
+CHEST_TITLE_LOST_ITEMS STRACŌNE PRZEDMIOTY
+
+COLLECT Sebier
+
+CONTAINER_TITLE_AMMUNITION AMUNICYJŎ
+CONTAINER_TITLE_BATTERY AKUMULATŌR
+CONTAINER_TITLE_CHEMICAL CHEMIKALIA
+CONTAINER_TITLE_FERTILIZER NŎWŌZ
+CONTAINER_TITLE_GAS BYNZYNA
+CONTAINER_TITLE_GENERIC ZAWARTOŚĆ
+CONTAINER_TITLE_REFINERY PRODUKCYJŎ RAFINERYJE
+CONTAINER_TITLE_SEED ZIŎRNO
+CONTAINER_TITLE_WATER WODA
+
+CONTROLLER_DRIVER_SEAT_LOCK Szpera łożyska
+CONTROLLER_DRIVER_SEAT_SETTINGS Ustawiyniŏ
+CONTROLLER_DRIVER_SEAT_TITLE ZESEL KEROWCY
+CONTROLLER_DRIVER_SEAT_TURN_LEFT Skrynt w lewo
+CONTROLLER_DRIVER_SEAT_TURN_RIGHT Skrynt w prawo
+CONTROLLER_DRIVER_SEAT_TURN_SPEED Gibkość ôbrŏcaniŏ
+CONTROLLER_DRIVER_SEAT_TURNING SKRYNCANIE
+
+CONTROLLER_ENGINE_ELECTRIC_TITLE MOTŌR ELEKTRYCZNY
+CONTROLLER_ENGINE_GAS_SCRAP Złom
+CONTROLLER_ENGINE_GAS_TITLE MOTŌR SPALINOWY
+CONTROLLER_ENGINE_INSTRUCTION Przeciōngnij, coby przipasować moc motora
+
+CONTROLLER_LIGHT_TITLE ŚWIATŁO
+
+CONTROLLER_LOGIC_DESCRIPTION_AND Kanōny, jeźli wszyjske podłōnczōne włączniki sōm aktywne
+CONTROLLER_LOGIC_DESCRIPTION_NAND Kanōny, jeźli keryś z podłōnczōnych włączników niy ma aktywny
+CONTROLLER_LOGIC_DESCRIPTION_DUCZ Kanōny, jeźli wszyjske podłōnczōne włączniki niy sōm aktywne
+CONTROLLER_LOGIC_DESCRIPTION_OR Kanōny, jeźli keryś z podłōnczōnych włączników je aktywny
+CONTROLLER_LOGIC_DESCRIPTION_XNOR Kanōny, jeźli tuplowanŏ liczba podłōnczōnych włączników je aktywnŏ
+CONTROLLER_LOGIC_DESCRIPTION_XOR Kanōny, jeźli jedyn z podłōnczōnych włączników je aktywny
+CONTROLLER_LOGIC_TITLE WROTA LOGICZNŎ
+
+CONTROLLER_PISTON_RANGE Zasiyng
+CONTROLLER_PISTON_SPEED Wartkość
+CONTROLLER_PISTON_TITLE TŁOK
+
+CONTROLLER_SENSOR_COLOR Tryb farby
+CONTROLLER_SENSOR_COLOR_PICKER_TITLE_1 ÔBIER
+CONTROLLER_SENSOR_COLOR_PICKER_TITLE_2 FARBA
+CONTROLLER_SENSOR_MODE Tryb
+CONTROLLER_SENSOR_MODE_BUTTON Knefel
+CONTROLLER_SENSOR_MODE_SWITCH Szalter
+CONTROLLER_SENSOR_SOUND Klang
+CONTROLLER_SENSOR_TITLE CZUJNIK
+
+CONTROLLER_SEQUENCE_LOOP PYNTLA
+CONTROLLER_SEQUENCE_NOT_USED Nieużywane
+CONTROLLER_SEQUENCE_TITLE EDYTŌR ROTACYJE
+CONTROLLER_SEQUENCE_UNLOCK Do ôdszperowaniŏ na poziōmie
+
+CONTROLLER_SUSPENSION_INTERACTION Przeciōngnij, coby przipasować sztywność
+CONTROLLER_SUSPENSION_TITLE ZAWIESZYNIE
+
+CONTROLLER_THRUSTER_INSTRUCTION Przeciōngnij, coby przipasować moc
+CONTROLLER_THRUSTER_TITLE MOTŌR RAKETOWY
+
+CONTROLLER_TIMER_DELAY GEZECŌW ÔPŌŹNIYNIE
+CONTROLLER_TIMER_SECONDS SEK.
+CONTROLLER_TIMER_TICKS TAKTY
+CONTROLLER_TIMER_TITLE TIMER
+
+CONTROLLER_TONE_BUTTON_DANCE TANIEC
+CONTROLLER_TONE_BUTTON_RETRO RETRO
+CONTROLLER_TONE_DRUM_GLITCH Feler
+CONTROLLER_TONE_DRUM_HIHAT Hi-hat
+CONTROLLER_TONE_DRUM_KICK Stopa
+CONTROLLER_TONE_DRUM_MISC Roztōmajte
+CONTROLLER_TONE_STYLE Styl
+CONTROLLER_TONE_TITLE ZŎPISKI TOTEBOTA
+CONTROLLER_TONE_VOLUME Głośność
+
+CONTROLLER_UPGRADE ULEPSZYNIE
+CONTROLLER_UPGRADE_Bearings Łożyska
+CONTROLLER_UPGRADE_Colors Farby
+CONTROLLER_UPGRADE_Connections Połōnczyniŏ
+CONTROLLER_UPGRADE_Efficiency Wydajność
+CONTROLLER_UPGRADE_Force Moc
+CONTROLLER_UPGRADE_Gears Lŏtania
+CONTROLLER_UPGRADE_Range Zasiyng
+CONTROLLER_UPGRADE_Settings Ustawiyniŏ
+CONTROLLER_UPGRADE_Speed Wartkość
+CONTROLLER_UPGRADE_Stiffness Sztywność
+CONTROLLER_UPGRADE_Thrust Cug
+
+COOKBOT_PIZZA ROLODA Z ZOŁZOM
+COOKBOT_REVIVAL ŻYMŁA Z KRUPNIOKIEM
+COOKBOT_TITLE KUCHŎRZ
+COOKBOT_VEGGIE MODRO KAPUSTA
+
+CRAFT WYRŎBIANIE
+
+CRAFTBOT_TITLE RZYMIEŚNIK
+
+DAMAGE_BREATH Tōniyńcie
+DAMAGE_HUNGER Głodowanie
+DAMAGE_THIRST Odwodnienie
+
+DATE DATŌM
+
+DELETE SKASUJ
+
+DESCRIPTION Ôpis
+DESCRIPTION_CAPS ÔPIS
+
+DRESSBOT_BOX_COUNT_PART_1 Kastle z ôblyczym:
+DRESSBOT_BOX_COUNT_PART_2
+DRESSBOT_INSTRUCTION Przeciōngnij i spuść tukej kastlã z ôblyczym
+DRESSBOT_MAKE WYKŌNEJ
+DRESSBOT_PICK_UP DŹWIGNIJ
+DRESSBOT_RECEIVE GRATULACYJE!
+DRESSBOT_TIME Czas
+DRESSBOT_TITLE CHWANTBOT
+DRESSBOT_UNBOX ÔDPAKUJ
+
+ERRMSG_CONNECTION_LOST_LINE1 Połōnczynie stracōne
+ERRMSG_CONNECTION_LOST_LINE2 Wybadej swoje połōnczynie z necym
+ERRMSG_CONNECTION_TIMEOUT_LINE1 Przekroczōny czas połōnczyniŏ z gospodŏrzym
+ERRMSG_CONNECTION_TIMEOUT_LINE2 Wybadej swoje połōnczynie z necym i sprōbuj zaś
+ERRMSG_DATABASE_ISSUE Wystōmpiōł problym ze zbiorym zŏpisu
+ERRMSG_INVALID_SHAPE_ID Fragmynt świata niy ma ôbsugowany
+ERRMSG_KICKED_FROM_SERVER_LINE1 Wychrōniōno było cie
+ERRMSG_KICKED_FROM_SERVER_LINE2 ze świata gospodŏrza
+ERRMSG_NO_WORLD_LINE1 Niy stworzōno było bazowego świata dlŏ tego trybu szpilu!
+ERRMSG_NO_WORLD_LINE2 Niy zapōmnij stworzić świata we szkryfcie szpilu.
+ERRMSG_OLD_TERRAIN_TEST_LINE_1 Zbiory zŏpisu edytora terynu z piyrwyjszych wersyje
+ERRMSG_OLD_TERRAIN_TEST_LINE_2 testu już niy fungujōm
+ERRMSG_REQUIRED_MOD Wymŏganŏ modyfikacyjŏ
+ERRMSG_SAVE_ALREADY_EXISTS Zbiōr zŏpisu ô tymu mianu już istnieje!
+ERRMSG_SERVER_SHUTDOWN_LINE1 Gospodŏrz zastawiōł
+ERRMSG_TITLE_CONNECTION_FAILED Połōnczynie niypodarzōne
+ERRMSG_TITLE_CONNECTION_LOST Połōnczynie stracōne
+ERRMSG_TITLE_ERROR BŁŌND
+ERRMSG_TITLE_FAILED_TO_LOAD_WORLD Niy podarziło sie wgrać świata
+ERRMSG_TITLE_SORRY Niystety!
+ERRMSG_TITLE_WARNING Uwŏga
+ERRMSG_UGC_DEPENDENCY_DELETED Fragmynt zawartości spotrzebowowanyj bez tyn świat już niy istnieje!
+ERRMSG_UGC_UNPUBLISHED_LINE_1 – niy udostympniōno było.
+ERRMSG_UGC_UNPUBLISHED_LINE_2 Znajōmi niy bydōm mogli przistōmpić
+ERRMSG_UNLOAD_MOD_LINE1 Używanŏ modyfikacyjŏ ôstała wychrōniōnŏ!
+ERRMSG_UNLOAD_MOD_LINE2 Może to sprawić problym z wgraniym świata.
+ERRMSG_UNLOAD_MOD_LINE3 Eli krōm to chcesz to zrobić?
+ERRMSG_VERSION_MISMATCH_LINE1 Niyzgodliwość wersyje szpilu
+ERRMSG_VERSION_MISMATCH_LINE2 Zaktualizuj swojigo klijynta i sprōbuj zaś
+
+GAME_MODE_MENU_CHALLENGE WYZWANIE
+GAME_MODE_MENU_CREATIVE KREATYWNY
+GAME_MODE_MENU_SURVIVAL PRZETRWANIE
+GAME_MODE_MENU_TITLE ÔBIER TRYB SZPILU
+
+HIDEOUT_RECEIVE ODBIERZ
+HIDEOUT_TITLE KRYJŌWKA
+HIDEOUT_TRADE HANDLUJ
+HIDEOUT_TRADING HANDEL
+
+INFO_BUSY Elymynt je zajynty
+INFO_HOME_CRASH_SITE Nowy pōnkt odradzania: roztrzaśniynty szif
+INFO_HOME_MECHANIC_STATION Nowy pōnkt odradzania: sztela mechanicznŏ
+INFO_HOME_NOT_STORED Spanie tukej je za wiela niybezpieczne
+INFO_HOME_STORED Zapisano było pōnkt odradzania
+INFO_INVENTORY_FULL Brak placu na wiyncyj ajnrichtōngu
+INFO_NO_CORE Niy mŏsz drzynia zasiylaniŏ!
+INFO_OUT_OF_ENERGY Brak ynergije
+INFO_OUT_OF_FUEL Brak pŏliwa
+INFO_PICKED_LOOT Sebrano było
+INFO_POWER_RESTORED Zasiylanie ôstało prziwrōcōne!
+INFO_REQUIRES Wymŏgŏ
+INFO_REQUIRES_POWER Wymŏgŏ zasiylaniŏ
+INFO_TOO_STEEP Za wiela strōmo
+
+INGREDIENTS SKŁŎDNIKI
+
+INTERACTION_CHANGE_ROTATIONAL_DIRECTION Zmiyń kerōnek ruchu ôbyrtnego
+INTERACTION_DESTROY Zniszcz
+INTERACTION_DOWN We spodek
+INTERACTION_EAT Jydz
+INTERACTION_FEED Nakarm
+INTERACTION_FERTILIZE Nawieź
+INTERACTION_FILL Napołnij
+INTERACTION_FORCE_BUILD Wymuś budowanie
+INTERACTION_INSERT Wraź
+INTERACTION_PICK_UP Dźwignij
+INTERACTION_PLACE Wraź
+INTERACTION_PLACE_CREATION_ON_LIFT Dźwignij kōnstrukcyjõ
+INTERACTION_PLACE_LIFT Wraź aufcug
+INTERACTION_PLACE_LIFT_ON_GROUND Wraź kōnstrukcyjõ na aufcugu
+INTERACTION_PLANT Roślina
+INTERACTION_PUT_DOWN Postŏw
+INTERACTION_PUT_SOIL Wraź glebã
+INTERACTION_REFINE Rafinuj
+INTERACTION_RESPAWN Odradzaj
+INTERACTION_REVIVE Ôżywiej
+INTERACTION_THROW Ciep
+INTERACTION_TINKER Ulepsz
+INTERACTION_UP W gōrã
+INTERACTION_USE Użyj
+INTERACTION_USE_DRESSBOT Użyj Chwantbota
+INTERACTION_USE_WARDROBE Użyj szranku
+
+INVENTORY_BACKPACK RUKZAK
+INVENTORY_NO_DESCRIPTION niy ma jeszcze ôpisu.
+INVENTORY_TITLE RUKZAK
+
+LEVEL POZIŌM
+
+LIFT_DELETE SKASUJ
+LIFT_EXPORT_SAVE ZAPISZ
+LIFT_EXPORT_TITLE ZAPISZ KŌNSTRUKCYJÕ
+LIFT_IMPORT_BUILD ZBUDUJ
+LIFT_IMPORT_SHARE UDOSTYMPNIJ
+LIFT_IMPORT_TITLE WGREJ KŌNSTRUKCYJÕ
+
+MATERIAL MATERYJŎ
+
+MECHANIC_STATION_COOK_BOT Kuchŏrz
+MECHANIC_STATION_CRAFT_BOT Rzymieśnik
+MECHANIC_STATION_DRESS_BOT Chwantbot
+MECHANIC_STATION_REFINERY_BOT Rafinobot
+MECHANIC_STATION_RESOURCE_COLLECTOR Kolektor zasobów
+MECHANIC_STATION_TITLE_1 SZTELA
+MECHANIC_STATION_TITLE_2 MECHANICZNŎ
+
+MENU_CREATIVE_GAME_NAME Nazwij swōj szpil
+MENU_CREATIVE_NO_SAVES Coby zaczōńć nowy szpil kreatywnõ, wpisz miano swojigo świata pōniżyj i wciś
+MENU_CREATIVE_SELECT_WORLD ÔBIER ŚWIAT
+MENU_CREATIVE_TILE_BUILDER EDYTŌR KAFELKÓW
+MENU_CREATIVE_TILE_BUILDER_DESCRIPTION_LINE_1 Formuj i projektuj kafelki
+MENU_CREATIVE_TILE_BUILDER_DESCRIPTION_LINE_2 do użyciŏ w Edytorze Kafelków.
+MENU_CREATIVE_TILE_BUILDER_TITLE_LINE_1 BUDUJ
+MENU_CREATIVE_TILE_BUILDER_TITLE_LINE_2 KAFELKI ŚWIATA
+MENU_CREATIVE_TITLE KREATYWNY
+MENU_CREATIVE_WORLD_BUILDER EDYTŌR ŚWIATŌW
+MENU_CREATIVE_WORLD_BUILDER_DESCRIPTION_LINE_1 Łōnczyć z sobōm kafelki,
+MENU_CREATIVE_WORLD_BUILDER_DESCRIPTION_LINE_2 coby tworzić olśniewające światy.
+MENU_CREATIVE_WORLD_BUILDER_TITLE_LINE_1 ZBUDUJ SWŌJ
+MENU_CREATIVE_WORLD_BUILDER_TITLE_LINE_2 ŚWIAT
+
+MENU_INGAME_EXIT WYJŚCIE
+MENU_INGAME_INVITE_FRIEND ZAPROŚ ZNAJŌMEGO
+MENU_INGAME_RESUME ZNOWIĆ
+MENU_INGAME_SAVE ZAPISZ
+MENU_INGAME_SAVE_AND_TEST ZAPISZ I TESTUJ
+MENU_INGAME_STOP_TEST PRZERWIJ TEST
+
+MENU_MAIN_CHARACTER POSTAĆ
+MENU_MAIN_COPYRIGHT © 2024 Axolot Games. Wszelke prawa zastrzeżōne
+MENU_MAIN_EXIT_GAME WYJDŹ ZE SZPILU
+MENU_MAIN_OPTIONS ÔPCYJE
+MENU_MAIN_VERSION Scrap Mechanic SIGMA Ver 2137
+
+MENU_MODS_DISABLE_ALL ZASTŎW WSZYJSKO
+MENU_MODS_ENABLE_ALL WŁŌNCZ WSZYJSKO
+MENU_MODS_NO_MODS_PART_1 Niy mŏsz żŏdnych zainstalowanych modyfikacyje.
+MENU_MODS_NO_MODS_PART_2 coby przeglōndać wszyjske przistympne
+MENU_MODS_NO_MODS_PART_3 modyfikacyje na Steam.
+MENU_MODS_SELECTED Ôbrane modyfikacyje
+MENU_MODS_SELECT_MODS ÔBRANE MODYFIKACYJE
+MENU_MODS_TITLE MODYFIKACYJE
+
+MENU_NEW_FLAT PLASKATY
+MENU_NEW_TERRAIN TERYN
+
+MENU_OPTION_ANISOTROPIC_16X Anizotropowość 16x
+MENU_OPTION_ANISOTROPIC_2X Anizotropowość 2x
+MENU_OPTION_ANISOTROPIC_4X Anizotropowość 4x
+MENU_OPTION_ANISOTROPIC_8X Anizotropowość 8x
+MENU_OPTION_APPLY ZASTOSUJ
+MENU_OPTION_BILINEAR Dwuliniowość
+MENU_OPTION_DEFAULT WYCHODNE
+MENU_OPTION_HIGH Wysokŏ
+MENU_OPTION_LOW Niskŏ
+MENU_OPTION_MEDIUM Postrzedniŏ
+MENU_OPTION_TRILINEAR Trójliniowość
+MENU_OPTION_VERY_HIGH Barzo wysokŏ
+MENU_OPTIONS_AUDIO KLANG
+MENU_OPTIONS_AUDIO_AMBIENT Ôbtoczynie
+MENU_OPTIONS_AUDIO_EFFECT Efekty
+MENU_OPTIONS_AUDIO_GUI Interfejs
+MENU_OPTIONS_AUDIO_MASTER Ôgōlnŏ głośność
+MENU_OPTIONS_AUDIO_MUSIC Muzyka
+MENU_OPTIONS_CONTROLS STEROWANIE
+MENU_OPTIONS_CONTROLS_AIM_SENSITIVITY Czułość celowania
+MENU_OPTIONS_CONTROLS_ATTACK Atak
+MENU_OPTIONS_CONTROLS_BIND_CONFLICT_PART_1 Knefel terŏźnie przipisany do
+MENU_OPTIONS_CONTROLS_BIND_CONFLICT_PART_2 Zmiynić?
+MENU_OPTIONS_CONTROLS_BIND_TEXT_PART_1 Wciś leda jaki knefel abo
+MENU_OPTIONS_CONTROLS_BIND_TEXT_PART_2 coby pociepnōńć.
+MENU_OPTIONS_CONTROLS_BIND_TITLE PRZIPISZ
+MENU_OPTIONS_CONTROLS_BINDING_MOUSE_BUTTON_LEFT Lewy knefel myszy (LPM)
+MENU_OPTIONS_CONTROLS_BINDING_MOUSE_BUTTON_RIGHT Prawy knefel myszy (PPM)
+MENU_OPTIONS_CONTROLS_BINDING_NOT_SET Niy ustawiōno było
+MENU_OPTIONS_CONTROLS_BINDING_SCROLL_DOWN Przewiń we spodek
+MENU_OPTIONS_CONTROLS_BINDING_SCROLL_UP Przewiń w gōrã
+MENU_OPTIONS_CONTROLS_CANCEL Pociepnij/Pociep
+MENU_OPTIONS_CONTROLS_CATEGORY_GAMEPLAY SZPIL
+MENU_OPTIONS_CONTROLS_CATEGORY_HOTBAR PASEK GIBKIGO PRZISTYMPU
+MENU_OPTIONS_CONTROLS_CATEGORY_MISC ROZTŌMAJTE
+MENU_OPTIONS_CONTROLS_CATEGORY_MOVEMENT RUCH
+MENU_OPTIONS_CONTROLS_CHAT Czat
+MENU_OPTIONS_CONTROLS_CRAWL Czołganie
+MENU_OPTIONS_CONTROLS_CREATE Buduj
+MENU_OPTIONS_CONTROLS_FORCE_BUILD Wymuś budowanie
+MENU_OPTIONS_CONTROLS_HANDBOOK Podryncznik
+MENU_OPTIONS_CONTROLS_HOTBAR_ITEM_1 Przedmiot 1 z paska
+MENU_OPTIONS_CONTROLS_HOTBAR_ITEM_10 Przedmiot 10 z paska
+MENU_OPTIONS_CONTROLS_HOTBAR_ITEM_2 Przedmiot 2 z paska
+MENU_OPTIONS_CONTROLS_HOTBAR_ITEM_3 Przedmiot 3 z paska
+MENU_OPTIONS_CONTROLS_HOTBAR_ITEM_4 Przedmiot 4 z paska
+MENU_OPTIONS_CONTROLS_HOTBAR_ITEM_5 Przedmiot 5 z paska
+MENU_OPTIONS_CONTROLS_HOTBAR_ITEM_6 Przedmiot 6 z paska
+MENU_OPTIONS_CONTROLS_HOTBAR_ITEM_7 Przedmiot 7 z paska
+MENU_OPTIONS_CONTROLS_HOTBAR_ITEM_8 Przedmiot 8 z paska
+MENU_OPTIONS_CONTROLS_HOTBAR_ITEM_9 Przedmiot 9 z paska
+MENU_OPTIONS_CONTROLS_HOTBAR_NEXT Nast. przedmiot z paska
+MENU_OPTIONS_CONTROLS_HOTBAR_NEXT_PAGE Nast. pasek gibkigo przistympu
+MENU_OPTIONS_CONTROLS_HOTBAR_PREVIOUS Poprz. przedmiot z paska
+MENU_OPTIONS_CONTROLS_HOTBAR_PREVIOUS_PAGE Poprz. pasek gibkigo przistympu
+MENU_OPTIONS_CONTROLS_HOTBAR_SELECT_1 Ôbier pasek 1
+MENU_OPTIONS_CONTROLS_HOTBAR_SELECT_2 Ôbier pasek 2
+MENU_OPTIONS_CONTROLS_HOTBAR_SELECT_3 Ôbier pasek 3
+MENU_OPTIONS_CONTROLS_INVALID_ACTION niy ma nŏleżnõ czynnościōm
+MENU_OPTIONS_CONTROLS_INVENTORY Ajnrichtōng
+MENU_OPTIONS_CONTROLS_INVERTED_Y_AXIS Ôdwrōcōnŏ aksa Y
+MENU_OPTIONS_CONTROLS_JUMP Skok
+MENU_OPTIONS_CONTROLS_LIFT_DOWN Ôpuść
+MENU_OPTIONS_CONTROLS_LIFT_UP Dźwignij
+MENU_OPTIONS_CONTROLS_LOGBOOK Dziynnik pokładowy
+MENU_OPTIONS_CONTROLS_MOVE_BACKWARD Ruch w zadek
+MENU_OPTIONS_CONTROLS_MOVE_FORWARD Ruch w przodek
+MENU_OPTIONS_CONTROLS_RESET Resetuj
+MENU_OPTIONS_CONTROLS_ROTATION_NEXT Nastympny ôbrōt
+MENU_OPTIONS_CONTROLS_ROTATION_PREVIOUS Piyrwyjszy ôbrōt
+MENU_OPTIONS_CONTROLS_SPRINT Lŏtanie
+MENU_OPTIONS_CONTROLS_STRAFE_LEFT Ruch w lewo
+MENU_OPTIONS_CONTROLS_STRAFE_RIGHT Ruch w prawo
+MENU_OPTIONS_CONTROLS_TINKER Ulepsz
+MENU_OPTIONS_CONTROLS_USE Użyj
+MENU_OPTIONS_CONTROLS_ZŌŌM_IN Przibliż
+MENU_OPTIONS_CONTROLS_ZŌŌM_OUT Ôddal
+
+MENU_OPTIONS_DISPLAY EKRAN
+MENU_OPTIONS_DISPLAY_DISPLAY_MODE Tryb wyświytlaniŏ
+MENU_OPTIONS_DISPLAY_DISPLAY_MODE_BORDERLESS_WINDOW Ôkno bez rōmek
+MENU_OPTIONS_DISPLAY_DISPLAY_MODE_FULLSCREEN Połny ekran
+MENU_OPTIONS_DISPLAY_DISPLAY_MODE_WINDOWED Ôkno
+MENU_OPTIONS_DISPLAY_FOV Pole widzyniŏ
+MENU_OPTIONS_DISPLAY_LANGUAGE Gŏdka
+MENU_OPTIONS_DISPLAY_RESOLUTION Rozdzielczość
+MENU_OPTIONS_DISPLAY_VEHICLE_CAMERA_MODE Tryb kamery w wozidle
+MENU_OPTIONS_DISPLAY_VEHICLE_CAMERA_MODE_FOLLOW Kamera podōnżajōncŏ
+MENU_OPTIONS_DISPLAY_VEHICLE_CAMERA_MODE_FREE Kamera zwōlnŏ
+MENU_OPTIONS_DISPLAY_VEHICLE_CAMERA_MODE_STRICT_FOLLOW Kamera podōnżajōncŏ – sztajfnŏ
+MENU_OPTIONS_DISPLAY_VERTICAL_SYNCHRONIZATION Synchrōnizacyjŏ piōnowŏ
+
+MENU_OPTIONS_GRAPHICS GRAFIKA
+MENU_OPTIONS_GRAPHICS_BLOOM Efekt Sosnowca
+MENU_OPTIONS_GRAPHICS_CAMERA_SHAKE Szkody hajerskie
+MENU_OPTIONS_GRAPHICS_CREATIVE_ONLY Ino tryb kreatywny
+MENU_OPTIONS_GRAPHICS_DOF Głymbia ôstrości
+MENU_OPTIONS_GRAPHICS_DRAW_DISTANCE Dalekość rysowaniŏ
+MENU_OPTIONS_GRAPHICS_DYNAMIC_LIGHTS Dynamiczne ôświytlynie
+MENU_OPTIONS_GRAPHICS_FOLIAGE Tyngość roślinności
+MENU_OPTIONS_GRAPHICS_FXAA Wygładzanie rantu
+MENU_OPTIONS_GRAPHICS_GODRAYS Prōmiynie słōneczne
+MENU_OPTIONS_GRAPHICS_PARTICLE_QUALITY Jakość efektōw cząsteczkowych
+MENU_OPTIONS_GRAPHICS_REFLECTION_QUALITY Jakość ôdbić
+MENU_OPTIONS_GRAPHICS_SHADER_QUALITY Jakość cieniowania
+MENU_OPTIONS_GRAPHICS_SHADOW_QUALITY Jakość ciyni
+MENU_OPTIONS_GRAPHICS_SHADOW_RESOLUTION Rozdzielczość ciyni
+MENU_OPTIONS_GRAPHICS_SSAO SSAO
+MENU_OPTIONS_GRAPHICS_TEXTURE_FILTERING Filtrowanie tekstur
+MENU_OPTIONS_GRAPHICS_TEXTURE_QUALITY Jakość tekstur
+
+MENU_OPTIONS_TITLE ÔPCYJE
+MENU_OPTOINS_CONTROLS_BINDING_MOUSE_BUTTON Knefel myszy
+
+MENU_SURVIVAL_NO_SAVES_1 Coby zaczōńć nowy szpil w trybie przetrwaniŏ,
+MENU_SURVIVAL_NO_SAVES_2 wpisz miano swojigo świata pōniżyj
+MENU_SURVIVAL_NO_SAVES_3 i wciś
+MENU_SURVIVAL_TITLE PRZETRWANIE
+
+MENU_YN_CANCEL POCIEPNIJ/POCIEP
+MENU_YN_MESSAGE_ACCEPT_DISPLAY Zaakceptować ustawiyniŏ?
+MENU_YN_MESSAGE_CONFIRM Na zicher?
+MENU_YN_MESSAGE_DELETE_BLUEPRINT Chcesz wychrōnić tyn projekt?
+MENU_YN_MESSAGE_DELETE_CHALLENGE_PACK Paket wyzwań ôstanie chodnie wychrōniōny i niy bydzie szło go prziwrōcić
+MENU_YN_MESSAGE_DELETE_FROM_LIFT Chcesz wychrōnić tã kōnstrukcyjõ z aufcuga?
+MENU_YN_MESSAGE_OVERWRITE_BLUEPRINT Kōnstrukcyjŏ ô takymu mianu już istnieje, eli chcesz nadpisać zŏpis?
+MENU_YN_MESSAGE_REMOVE_CHALLENGE Wyzwanie ôstanie wychrōniōne z paketu wyzwań
+MENU_YN_MESSAGE_RESTORE_AUDIO Prziwrōcić wychodne ustawiyniŏ klangu?
+MENU_YN_MESSAGE_RESTORE_CONTROLS Eli na zicher chcesz prziwrōcić wychodne ustawiyniŏ knefli?
+MENU_YN_MESSAGE_RESTORE_DISPLAY Eli na zicher chcesz prziwrōcić wychodne ustawiyniŏ ekranu?
+MENU_YN_MESSAGE_RESTORE_GRAPHICS Eli na zicher chcesz prziwrōcić wychodne ustawiyniŏ grafiki?
+MENU_YN_MESSAGE_RESTORE_TITLE_1 PRZIWRŌĆ
+MENU_YN_MESSAGE_RESTORE_TITLE_2 WYCHODNE USTAWIYNIŎ
+MENU_YN_MESSAGE_SHARE_CHALLENGE_PACK Sprawi to przesłanie paketu wyzwań do werksztele
+MENU_YN_MESSAGE_UPDATE_CHALLENGE_PACK Sprawi to nadpisanie istniejōncego paketu wyzwań w werksztelo
+MENU_YN_NO NIY
+MENU_YN_OK KOL
+MENU_YN_TITLE_ARE_YOU_SURE NA ZICHER?
+MENU_YN_YES JA
+
+MODS MODYFIKACYJE
+NEW_GAME NOWY SZPIL
+OFF Wōł.
+OFF_CAPS WŌŁ.
+ON Wł.
+ON_CAPS WŁ.
+
+PAINT_TOOL_TITLE MALOWANIE
+
+PART_FILTER_BLOCKS BLOKI
+PART_FILTER_CONSUMABLE PRZEDMIOTY UŻYTKOWE
+PART_FILTER_INTERACTIVE INTERAKTYWNE
+PART_FILTER_MODS CZYNŚCI MODYFIKACYJE
+PART_FILTER_PARTS CZYNŚCI
+PART_FILTER_TOOLS NŎCZYNIŎ
+PLAY GREJ
+PLAYTIME CZAS SZPILU
+PROPERTY_BUOYANCY PŁYWALNOŚĆ
+PROPERTY_DURABILITY TRWAŁOŚĆ
+PROPERTY_FLAMMABLE ŁATWOPALNOŚĆ
+PROPERTY_FRICTION TARCIE
+PROPERTY_WEIGHT WŎGA
+
+REMOVE WYCHRŌŃ
+
+SCRAP_MECHANIC Scrap Mechanic
+
+SEARCH Szukej
+SHARE UDOSTYMPNIJ
+
+SLIDER_FAST WARTKO
+SLIDER_LIMIT LIMIT
+SLIDER_MAX MAKS.
+SLIDER_SLOW POLEKU
+
+STEAM_WORKSHOP WERKSZTELA STEAM
+STEAM_WORKSHOP_2 Werksztela Steam
+STEAM_WORKSHOP_ACTION_VERIFY_INTEGRITY Wybadej zgodliwość wszyjskich zbiorōw szpilu
+STEAM_WORKSHOP_BY bez
+STEAM_WORKSHOP_DOWNLOADING POBIYRANIE
+STEAM_WORKSHOP_EXPORT_UNNAMED Brak miana
+STEAM_WORKSHOP_FAILED_CREATE_ITEM Niy podarziło sie zbudować przedmiotu do werksztele
+STEAM_WORKSHOP_FAILED_DOWNLOAD Niy podarziło sie pobrać przedmiotu z werksztele
+STEAM_WORKSHOP_FAILED_FIND_FOLDER Niy idzie znojś folderu do
+STEAM_WORKSHOP_FAILED_REASON Prziczyna
+STEAM_WORKSHOP_FAILED_REASON_ACCESS_DENIED Abszlag przistympu
+STEAM_WORKSHOP_FAILED_REASON_DATE_CORRUPTION Popszniynie danych
+STEAM_WORKSHOP_FAILED_REASON_DISK_FULL Dysk je połny
+STEAM_WORKSHOP_FAILED_REASON_ERROR_CODE Kod błyndu
+STEAM_WORKSHOP_FAILED_UPLOAD Wysłanie sie niy powiodło
+STEAM_WORKSHOP_IMPORT_MODS_MISSING BRAKUJŌNCE MODYFIKACYJE
+STEAM_WORKSHOP_IMPORT_PARTS_MISSING NIYWYSTYKAJŌNCŎ LICZBA CZYNŚCI
+STEAM_WORKSHOP_NO_DESCRIPTION Tyn projekt niy posiadŏ ôpisu.
+STEAM_WORKSHOP_SHARING UDOSTYMPNIANIE
+STEAM_WORKSHOP_UPDATE AKTUALIZUJ
+STEAM_WORKSHOP_UPDATING AKTUALIZOWANIE
+STEAM_WORKSHOP_UPLOAD_CHANGES_COMMIT Wkludzanie pōmian
+STEAM_WORKSHOP_UPLOAD_CONFIG_PREP Rychtowanie kōnfiguracyje
+STEAM_WORKSHOP_UPLOAD_CONTENT_PREP Rychtowanie zawartości
+STEAM_WORKSHOP_UPLOAD_CONTENT_UPLOAD Wysyłanie zawartości
+STEAM_WORKSHOP_UPLOAD_IMAGE_UPLOAD Wysyłanie ôbrazu podglądu
+STEAM_WORKSHOP_UPLOADING Wysyłanie
+
+TIME CZAS
+TIME_DAYS dni tymu
+TIME_HOUR godzinã tymu
+TIME_HOURS godz. tymu
+TIME_MINUTE minutã tymu
+TIME_MINUTES min. tymu
+TIME_MONTH miesiōnc tymu
+TIME_MONTHS mies. tymu
+TIME_YEAR rok tymu
+TIME_YEARS lŏt(a) tymu
+TIME_YESTERDAY Wczorej
+
+TOOL_TIP_IE_BLOCK_NOT_FOUND BLOK NIY ÔSTOŁ ZNALEZIŌNY
+TOOL_TIP_IE_DRAG_TO_ROTATE PRZECIŌNGNIJ, BY ÔBRŌCIĆ
+
+UGC_AFFECTED_ITEMS Tykniynte przedmioty
+UGC_AND_CONTENT i
+UGC_AND_CORE_GAME i szpil głownŏ!
+UGC_CANNOT_FIND Niy idzie znojś
+UGC_CANNOT_FIND_FILE_ID Niy idzie znojś idyntyfikatora zbioru Steam
+UGC_ERROR_ID_CONFLICT Kōnflikt idyntyfikatora pōmiyndzy
+UGC_UNPUBLISHED_DEPENDENCY Jedyn z wymŏganych przedmiotōw niy ôstoł ôpublikowany bez twōrcy. Idyntyfikatōr lokalny
+
+UNKNOWN_MOD <Unknown mod>
+
+UNLOCK Ôdszperuj
+UNLOCKED Ôdszperowano było
+
+WARNING UWŎGA
+WARNING_TUNNELING_LINE1 Niy tak sie szpil w tyn szpil!
+WARNING_TUNNELING_LINE2 Przestań!
+WARNING_TUNNELING_TITLE Te!
+
+WORLD_BUILDER_CLEAR_WORLD WYCHRŌŃ ŚWIAT
+WORLD_BUILDER_CONTINUE Chcesz kōntynuować?
+WORLD_BUILDER_DELETE_WORLD_CONFIRM Eli na zicher chcesz wychrōnić tyn świat?
+WORLD_BUILDER_FREE_PLACEMENT Darmowe porozkłŏdanie
+WORLD_BUILDER_INVALID_NAME Niynŏleżne miano zbioru
+WORLD_BUILDER_LOAD_WORLD WGREJ
+WORLD_BUILDER_MAIN_MENU MYNI GŁOWNE
+WORLD_BUILDER_NAME_ALREADY_EXISTS Świat ô tymu mianu już istnieje
+WORLD_BUILDER_OVERWRITE Chcesz nadpisać zŏpis?
+WORLD_BUILDER_REMOVE_ALL_TILES Sprawi to wychrōniynie wszyjskich kafelków z terŏźnego świata!
+WORLD_BUILDER_SAVE_WORLD ZAPISZ ŚWIAT
+WORLD_BUILDER_SAVE_WORLD_SUCCESS Świat ôstoł zapisany
+WORLD_BUILDER_TITLE EDYTŌR ŚWIATŌW
+WORLD_BUILDER_WORLD_NAME MIANO ŚWIATA
